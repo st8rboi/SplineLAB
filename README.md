@@ -1,13 +1,7 @@
-# InterpAnalyzer
+# SplineLAB
 
 Анализ точности и устойчивости численных методов интерполяции с визуализацией графиков и метрик ошибок.
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)
-![GUI](https://img.shields.io/badge/interface-Tkinter-orange)
-
----
 
 ## 🧠 Тематика проекта
 
