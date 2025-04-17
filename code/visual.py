@@ -59,7 +59,7 @@ def run_gui():
         plt.grid()
 
         plt.tight_layout()
-        plt.savefig('plot.png')  # относительный путь
+        plt.savefig('./img/plot.png')  # относительный путь
         print("\n📊 Сравнение ошибок:")
         for method, (max_err, mse) in errors.items():
             print(f"{method}: Max Error = {max_err:.4e}, MSE = {mse:.4e}")
